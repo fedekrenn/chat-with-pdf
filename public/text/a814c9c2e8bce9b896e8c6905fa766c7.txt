@@ -1,0 +1,68 @@
+FEDERICO KRENN
+Desarrollador Frontend
+CONTACTO
+/fedekrenn
+in /fkrenn/
+3512367758
+Córdoba, Argentina
+fedekrenn@gmail.com
+SOBRE MÍ
+Soy una persona orientada al trabajo en
+equipo, responsable y comprometido en
+la resolución eficiente de problemas. Mi
+experiencia en el área de calidad y mi
+creciente formación en programación me
+impulsan a seguir desarrollándome
+profesionalmente. Busco nuevas
+oportunidades para aplicar mis
+habilidades adquiridas, expandir mis
+conocimientos en el campo del desarrollo
+y contribuir en un entorno colaborativo y
+dinámico, donde pueda aportar al
+crecimiento y éxito del equipo y la
+empresa.
+APTITUDES
+● ReactJS
+English Certificate (B2) - EFSET
+●
+●
+Metodologías ágiles
+• Trabajo en equipo
+● Sass
+EXPERIENCIA LABORAL
+Analista de calidad
+Startek | 2013 - Actualidad
+Luego de formar parte de atención al cliente, por mi gran
+desempeño logré alcanzar el puesto de analista de calidad
+para la cuenta Claro (tanto Argentina y Uruguay) en las redes
+sociales y también para grandes Clientes corporativos. Desarro-
+llé en React el CMS en el cual se carga los datos de las
+gestiones para medir kpi y planificar los planes de acción,
+aumentando la efectividad de la tarea de los analistas al
+prescindir del uso de excel.
+Facilitador - Tutor
+Junior Achievement | Agosto 2022 -
+Actualidad
+Tutoría del curso virtual a alumnos para el programa "Yo Puedo
+Programar". Dictado de clases complementarias que sirven de
+apoyo al material del campus, el cual es HTML, CSS, JavaScript
+y Bootstrap. Seguimiento diario de las acciones y
+participaciones en el campus: Intervenciones en el campus
+(foros o debates), corrección de actividades.
+TRAYECTORIA ACADÉMICA
+Técnicatura Superior en Desarrollo Web y
+Aplicaciones Digitales
+Instituto Superior Politécnico De Córdoba -
+ISPC | 2023 - Actualidad
+Tecnicatura Universitaria en Software
+Libre
+Facultad de Ingeniería y Ciencia Hídricas.
+Universidad Nacional del Litoral | 2023 -
+Actualidad
+CURSOS Y CERTIFICADOS
+Carrera de desarrollo Fullstack
+Coder House | Diciembre 2021 - Marzo 2023
+. Desarrollo web
+• JavaScript
+• React
+• Backend con Node.js, Express y MongoDB
